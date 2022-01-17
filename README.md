@@ -22,8 +22,9 @@
   <img align="center" alt="fcoxico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fcoxico-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">   
   <img align="center" alt="fcoxico-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img align="right" alt="fcoxico-pic" height="150" style="border-radius:50px;" src="https://photos.app.goo.gl/NEYtWRse1x3qGvX88">
-</div>
+  <img align="right" alt="fcoxico-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/NNR8aaleXlI3e/giphy.gif">
+    
+ 
 
 <!-- Social Media Links --> 
  
