@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Francisco José
 
 - 🔭 Estudante de FrontEnd (FrontEnd Student)
-- 🌱 Estudando UX / Design e Prototipação 
+- 🌱 Estudando UX / Design e Prototipação / Tech Writing
 - 👯 Procuro por projetos para colaborar no meu tempo livre
 - 📫 Para falar comigo: franciscojosecardoso@gmail.com
 
